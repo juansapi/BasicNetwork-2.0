@@ -8,7 +8,7 @@
 #Generate Crypto artifactes for organizations
 cryptogen generate --config=./crypto-config.yaml --output=./crypto-config/
 
-
+#prueba uno
 
 # # System channel
 # SYS_CHANNEL="sys-channel"
