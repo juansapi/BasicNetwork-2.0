@@ -36,14 +36,14 @@ PeerOrgs:
     EnableNodeOUs: true
 
     Template:
-      Count: 2
+      Count: 5
       # Start: 5
       # Hostname: {{.Prefix}}{{.Index}} # default
       SANS:
         - "localhost"
 
     Users:
-      Count: 1
+      Count: 18
 
   - Name: Org2
     Domain: org2.example.com
